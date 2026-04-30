@@ -7,6 +7,6 @@ The code here uses autoencoder and transformer networks to model the velocity/pr
 
 ## Jet flow
 
-<img src="Images/atmp_turb_contourf_fast_short.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
+<img src="images/atmp_turb_contourf_fast_short.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
 
 
