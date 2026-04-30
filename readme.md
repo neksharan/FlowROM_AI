@@ -4,7 +4,7 @@ The code here uses autoencoder and transformer networks to model the velocity/pr
 
 ## Flow over an airfoil at an AoA of 30˚
 
-<center><iframe style="width:100%; height:568.49995px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/Jet_short_slowed2.mp4" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe style="width:100%; height:568.49995px; margin-top: 20px; margin-bottom: 50px; overflow:auto;" src="/images/vort_contours_long.mov" frameborder="0" allowfullscreen></iframe></center>
 
 ## Jet flow
 
