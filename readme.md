@@ -4,11 +4,11 @@ The code here uses autoencoder and transformer networks to model the velocity/pr
 
 A summary of the current results can be found [here](docs/Results_Summary.pdf).
 
-## ROM of flow over an airfoil at an AoA of 35˚
+## ROM of flow over an airfoil at an AoA of 10˚
 
 <img src="images/vort_contours_long.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
 
-<img src="images/AOA_35.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
+<img src="images/AOA_10.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
 
 ## ROM of flow over a circular cylinder
 
