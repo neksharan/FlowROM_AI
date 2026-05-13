@@ -4,9 +4,17 @@ The code here uses autoencoder and transformer networks to model the velocity/pr
 
 A summary of the current results can be found [here](docs/Results_Summary.pdf).
 
-## Flow over an airfoil at an AoA of 35˚
+## ROM of flow over an airfoil at an AoA of 35˚
 
 <img src="images/vort_contours_long.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
+
+<img src="images/AOA_35.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
+
+## ROM of flow over a circular cylinder
+
+<img src="images/Movie_CylVort1.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
+
+<img src="images/cylinder.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
 
 ## Scalar field in a subsonic jet flow
 
