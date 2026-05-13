@@ -2,7 +2,9 @@
 
 The code here uses autoencoder and transformer networks to model the velocity/pressure/scalar field in fluid flows. The current implementation models the flows shown below. The list will be updated as data from more flow fields are used for training/testing.
 
-## Flow over an airfoil at an AoA of 30˚
+A summary of the current results can be found [here](docs/Results_Summary.pdf).
+
+## Flow over an airfoil at an AoA of 35˚
 
 <img src="images/vort_contours_long.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
 
