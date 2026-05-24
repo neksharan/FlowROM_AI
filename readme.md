@@ -20,4 +20,6 @@ A summary of the current results can be found [here](docs/Results_Summary.pdf).
 
 <img src="images/atmp_turb_contourf_fast_short.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
 
+<img src="images/subsonic_jet_vorticity_mag.gif?raw=true&v=100" alt="your_alternative_text" width="100%" loop="true" autoplay="true">
+
 
